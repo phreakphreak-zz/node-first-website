@@ -2,11 +2,11 @@ const express =require('express');
 const router = express.Router();
 
 router.get('/',(req, res)=>{
-    res.render('index',{title:"first WebSite JS"});
+    res.render('index.html',{title:"Home"});
 });
 
 
 router.get('/contact',(req, res)=>{
-    res.render('contact',{title:"contact pages JS"});
+    res.render('contact.html',{title:"Contact Page"});
 });
 module.exports = router;
