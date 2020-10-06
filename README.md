@@ -1,5 +1,5 @@
 # node-first-website
-Mi primera aplicacion con NodeJS
+Mi primera aplicacion con NodeJS utilzando Express, EJS, Bootstrap, Animate.css, Font Awesome
 
 ## Content
 This proyect has one branches: master. **master** contains main code. 
@@ -18,8 +18,5 @@ npm start
 ```
 
 ## Preview
-Insert here an image of the preview if your project has one. The image can be into the project, you have to indicate the route and look like this.
 
-![](/preview.jpg)
-
-
+![](/preview.png)
